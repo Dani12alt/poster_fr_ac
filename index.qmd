@@ -1,11 +1,25 @@
 ---
-title: "Factores de riesgo asociados a anomalias congenitas entre recien nacidos en el Hospital de la Mujer"
+title-block-banner: true
+title: "FACTORES DE RIESGO ASOCIADOS A ANOMALÍAS CONGÉNITAS ENTRE RECIÉN NACIDOS EN EL HOSPITAL DE LA MUJER"
+lang: es
+toc-title: Contenido
+author:
+  - name: Beatriz Luna Barron
+    email: bluna5@umsa.bo
+  - name: Daniel Linares Terrazas
+    email: dalinares1@umsa.bo
+  - name: Rolando Paz Bonilla
+  - name: Gonzalo Taboada Lopez †
+abstract: > 
+  **Introducción:** Las anomalías congénitas, definidas como anomalías estructurales o funcionales presentes al nacer, representan un importante problema de salud pública debido a su impacto potencial en la morbilidad, la mortalidad y la calidad de vida de las personas afectadas. Aunque la etiología de las anomalías congénitas sigue siendo desconocida, cada vez hay más evidencia de que su aparición puede deberse a intrincadas interacciones entre la predisposición genética y las influencias ambientales. **Objetivo:** Este estudio tuvo como objetivo determinar la frecuencia de anomalías congénitas y los factores de riesgo asociados entre los recién nacidos del Hospital de la Mujer. **Método:** Un estudio prospectivo de casos y controles, entre los años 2017 a 2019, recopiló datos sobre anomalías congénitas utilizando el sistema diagnóstico CIE-10 y la exposicion a factores de riesgo informados por la madre. Se calcularon las odds ratio (OR) mediante regresión logística univariante y multivariante. **Resultados:** El 2,3% de los recién nacidos presentaba anomalías congénitas, la mayoría de las cuales afectaban al sistema nervioso seguidas de malformaciones faciales y orofaringeas como ser las fisuras labiopalatinas. Entre los factores de riesgo significativos figuraban la edad materna superior a 35 años (OR = 1.6; IC95% = 1 – 3.1), la exposición a plaguicidas (OR = 2.3; IC95% = 1.2 – 4.1) y la ocupación materna relacionada con la agricultura (OR = 4.2; IC95% = 1.1 – 15.2). **Conclusiones:** Los hallazgos subrayan la naturaleza intrincada y multifactorial de las anomalías congénitas. Este estudio aboga por intensificar la vigilancia epidemiológica de las anomalías congénitas en nuestro pais y subraya la necesidad de seguir investigando, especialmente en lo relativo a la exposición a pesticidas en madres agricultoras, siendo vital dada la prevalencia de las ocupaciones agrícolas en Bolivia.
 ---
 
-This is a Quarto website.
+# Introducción
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Material y métodos
 
-```{r}
-1 + 1
-```
+# Resultados
+
+# Discusión
+
+# Conclusión

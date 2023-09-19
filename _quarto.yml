@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Instituto de Genetica"
+  title: "Centro de Registro y Vigilancia"
   navbar:
     left:
       - href: index.qmd

@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "poster_fr_ac"
+  title: "Instituto de Genetica"
   navbar:
     left:
       - href: index.qmd
@@ -12,9 +12,10 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: pulse
     css: styles.css
     toc: true
+    toc-title: Contents
 
 editor: visual
 

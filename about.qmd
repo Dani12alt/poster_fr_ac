@@ -2,8 +2,30 @@
 title: "About"
 ---
 
-About this site
+**Instituto de Genética, Facultad de Medicina, Universidad Mayor de San Andrés**
 
-```{r}
-1 + 1
-```
+Bienvenidos a la sección de información del proyecto de investigación desarrollado por el Instituto de Genética de la Facultad de Medicina de la Universidad Mayor de San Andrés (UMSA). Este proyecto forma parte del "Centro de Registro y Vigilancia de Anomalías Congénitas", una iniciativa que ha estado trabajando en la vigilancia epidemiológica de anomalías congénitas desde el año 2018, centrándose principalmente en el Hospital de la Mujer y en el Hospital del Niño de la ciudad de La Paz, Bolivia.
+
+**Misión y Objetivos del Proyecto:**
+
+Nuestra misión es contribuir al conocimiento y la comprensión de los factores de riesgo asociados a las anomalías congénitas en recién nacidos, con el objetivo de mejorar la salud y el bienestar de los bebés y sus familias en Bolivia. Para lograrlo, nos hemos propuesto los siguientes objetivos:
+
+1.  Identificar y analizar los factores de riesgo que pueden estar relacionados con la aparición de anomalías congénitas en neonatos.
+
+2.  Establecer un sistema de registro y vigilancia de anomalías congénitas que permita recopilar datos precisos y actualizados.
+
+3.  Colaborar estrechamente con el personal médico y de salud en los hospitales seleccionados para mejorar la detección y el seguimiento de estas anomalías.
+
+4.  Desarrollar estrategias de prevención y educación para concienciar a la comunidad sobre los riesgos y las medidas preventivas relacionadas con las anomalías congénitas.
+
+**Historia y Trayectoria:**
+
+Desde su inicio en 2018, el Centro de Registro y Vigilancia de Anomalías Congénitas ha trabajado incansablemente para avanzar en la vigilancia epidemiológica de estas condiciones en Bolivia. Hemos establecido una sólida colaboración con el Hospital de la Mujer y el Hospital del Niño en La Paz, donde hemos podido recopilar datos cruciales sobre anomalías congénitas en recién nacidos. Este proyecto se ha convertido en el primer sistema de registro y vigilancia de anomalías congénitas en Bolivia, marcando un hito importante en la investigación y la atención médica en el país.
+
+**Perspectivas Futuras:**
+
+Nuestra visión es expandir este proyecto a más hospitales y regiones de Bolivia, con el objetivo de brindar una cobertura más amplia y alcanzar una mayor población. Creemos que la información recopilada y los conocimientos adquiridos a través de este proyecto pueden ser fundamentales para la implementación de políticas de salud pública efectivas y programas de prevención de anomalías congénitas en el país.
+
+Agradecemos su interés en nuestro proyecto y lo invitamos a explorar más a fondo nuestros hallazgos, avances y contribuciones a medida que avanzamos en nuestra misión de comprender y abordar los factores de riesgo asociados a las anomalías congénitas entre los recién nacidos en Bolivia. Su apoyo y colaboración son fundamentales para nuestro éxito continuo.
+
+![](images/Instituto%20de%20genetica%20Sin%20fondo.png){fig-align="center" width="183"}
